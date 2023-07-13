@@ -1,4 +1,4 @@
-Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,Target label
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,Target
 40,M,ATA,140,289,0,Normal,172,N,0,Up,0
 49,F,NAP,160,180,0,Normal,156,N,1,Flat,1
 37,M,ATA,130,283,0,ST,98,N,0,Up,0
