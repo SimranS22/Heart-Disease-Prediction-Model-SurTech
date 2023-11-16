@@ -1,10 +1,10 @@
 # Heart Disease Prediction Model
 
 ## Concept Note
-https://docs.google.com/document/d/1qLhOwOVw3THE2hpevSgapafkRxHUp4pbBybnhBc-_qc/edit?usp=sharing
+
 
 ## PPT
-https://docs.google.com/presentation/d/1N5jA8HOGo1UFcqVXacdnJbm5O6BmX7E9WQyjQd9u0Nc/edit?usp=sharing
+
 
 ## Objective of the Project 
 The objective of the Heart Disease prediction model is to accurately identify cases of Heart Disease through the Prediction Model.
@@ -19,5 +19,9 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 4. Decision Tree Classifier
 5. Random Forest Classifier
 6. Naive Bayes
+7. Bagging
+8. Adaptive Boosting
+9. Extreme Gradient Boosting
+10. MaxVoting
 
 [Maximum Accuracy achieved: 92% (approx) using Logistic Regression]
