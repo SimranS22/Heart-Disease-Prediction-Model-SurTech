@@ -1,6 +1,7 @@
 # Heart Disease Prediction Model
 
-## Concept Note
+## Project Documentation
+https://drive.google.com/file/d/18cb_958lQfkad2nV2blM8VtHIsRh6NEG/view?usp=sharing
 
 
 ## PPT
