@@ -1,4 +1,4 @@
-# Heart Disease Prediction Model with Machine Learning Algorithms
+# Heart Disease Prediction with Machine Learning Algorithms
 
 ## Project Documentation
 [Click here to access project documentation](https://github.com/SimranS22/Heart-Disease-Prediction-Model-SurTech/files/15224053/HDPM_Report.pdf)
