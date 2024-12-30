@@ -28,4 +28,4 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 [Maximum Accuracy achieved: 92% (approx) using Logistic Regression]
 
 ## Website
-[Click here to access project website](https://b87c4231-668a-48e2-a055-42cb89e1676e-00-1rsj2y8z34rp4.picard.replit.dev/)
+[Click here to access project website](https://github.com/SimranS22/HDPMWebsite)
